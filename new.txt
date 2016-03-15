@@ -1,2 +1,7 @@
-
-ddddddddddddddddddddddddddgggggggggdddddddww
+<?php
+include("dbconnect.php")
+?>
+<?php
+if(isset($_POST['redbtn'])){
+echo "xxxxxxxxx";
+}?>
